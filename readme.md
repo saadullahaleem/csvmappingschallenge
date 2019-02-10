@@ -1,4 +1,4 @@
-**Fashion Cloud Catalog API**
+**Catalog API**
 
 This challenge runs on flask.
 
